@@ -11,7 +11,7 @@ public class ExampleUsage {
 }
 ```
 
-See https://en.wikipedia.org/wiki/Linear_congruential_generator for good parameters
+See https://en.wikipedia.org/wiki/Linear_congruential_generator for good parameters.
 
 Change history
 --------------
