@@ -1,6 +1,8 @@
 # LinearCongruenceGenerator
 Linear Congruence Generator implementation in Java
 
+[![Build status](https://ci.appveyor.com/api/projects/status/8f9ch2va9f6qdc1d?svg=true)](https://ci.appveyor.com/project/SeppPenner/linearcongruencegenerator)
+
 Link to Linear Congruence Generator implementation in C#: https://github.com/SeppPenner/LinearCongruenceGeneratorC-/blob/master/README.md
 
 ## Basic usage:
