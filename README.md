@@ -2,6 +2,10 @@
 Linear Congruence Generator implementation in Java
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8f9ch2va9f6qdc1d?svg=true)](https://ci.appveyor.com/project/SeppPenner/linearcongruencegenerator)
+[![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LinearCongruenceGenerator.svg)](https://github.com/SeppPenner/LinearCongruenceGenerator/issues)
+[![GitHub forks](https://img.shields.io/github/forks/SeppPenner/LinearCongruenceGenerator.svg)](https://github.com/SeppPenner/LinearCongruenceGenerator/network)
+[![GitHub stars](https://img.shields.io/github/stars/SeppPenner/LinearCongruenceGenerator.svg)](https://github.com/SeppPenner/LinearCongruenceGenerator/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/LinearCongruenceGenerator/master/License.txt)
 
 Link to Linear Congruence Generator implementation in C#: https://github.com/SeppPenner/LinearCongruenceGeneratorC-/blob/master/README.md
 
