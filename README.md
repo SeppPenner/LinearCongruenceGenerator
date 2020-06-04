@@ -1,5 +1,6 @@
 # LinearCongruenceGenerator
-Linear Congruence Generator implementation in Java
+
+A Linear Congruence Generator implementation in Java.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8f9ch2va9f6qdc1d?svg=true)](https://ci.appveyor.com/project/SeppPenner/linearcongruencegenerator)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/LinearCongruenceGenerator.svg)](https://github.com/SeppPenner/LinearCongruenceGenerator/issues)
@@ -7,7 +8,7 @@ Linear Congruence Generator implementation in Java
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/LinearCongruenceGenerator.svg)](https://github.com/SeppPenner/LinearCongruenceGenerator/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/LinearCongruenceGenerator/master/License.txt)
 
-Link to Linear Congruence Generator implementation in C#: https://github.com/SeppPenner/LinearCongruenceGeneratorC-/blob/master/README.md
+Link to the Linear Congruence Generator implementation in C#: https://github.com/SeppPenner/LinearCongruenceGeneratorC-/blob/master/README.md
 
 ## Basic usage:
 ```java
@@ -22,5 +23,4 @@ See https://en.wikipedia.org/wiki/Linear_congruential_generator for good paramet
 Change history
 --------------
 
-* **Version 1.0.0 (2016-12-03)** : Added basic usage to Readme.
-* **Version 1.0.0 (2016-07-13)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/LinearCongruenceGenerator/blob/master/Changelog.md).
